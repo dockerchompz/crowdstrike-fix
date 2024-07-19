@@ -7,7 +7,7 @@
 
 ### Running
 ```
-python3 fix.py - python 3
+python3 fix.py 
 
 
 *in case of script usage*
