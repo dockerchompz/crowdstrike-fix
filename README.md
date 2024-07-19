@@ -1,4 +1,4 @@
-## Crowdstrike channel file fix
+## Crowdstrike Falcon channel file fix
 
 ### Requirements:
 - Python 3
